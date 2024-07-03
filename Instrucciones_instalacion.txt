@@ -1,0 +1,8 @@
+1.- abrir la ruta de la carpeta en una terminal
+2.- ejecutar comando "pip install -r requirements.txt"
+3.- ejecutar comando "python manage.py runserver" para correr el servidor y que funcione la pagina
+
+
+Credenciales de administrador:
+Usuario: admin
+Contraseña: admin

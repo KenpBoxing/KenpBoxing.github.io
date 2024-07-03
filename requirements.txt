@@ -1,0 +1,10 @@
+django
+mysqlclient
+pillow   
+django-admin-interface
+django-crispy-forms
+crispy_bootstrap4
+reportlab
+weasyprint
+django-select2
+django-autocomplete-light
